@@ -49,7 +49,7 @@ The GitHub product documentation in the assets, content, and data folders are li
 
 All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+When using the GitHub logos, be sure to follow the [GitHub logo guidelines](httpps://github.com/logos).
 
 ## Thanks :purple_heart:
 
